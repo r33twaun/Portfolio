@@ -8,3 +8,5 @@
 -added home, about and portfolio link to all three pages
 
 -on the portfolio page made the images external hyper links
+
+-modified portfolio.html file to fix spelling errors
